@@ -21,5 +21,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre) na UNINTE
 
 ---
 
-### 📫 Vamos conversar? / Let's connect!
+### 📫 Vamos nos conectar! / Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/eduardaandradedev/)
