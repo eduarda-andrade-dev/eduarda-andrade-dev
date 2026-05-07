@@ -7,7 +7,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre) na UNINTE
 
 ### Sobre mim / About me
 - 🇧🇷 Localizada em **Recife, PE**.
-- **Transição de Carreira:** Unindo 5 anos de experiência em **Design Gráfico** e **UX/UI** com a Engenharia de Software.
+- **Transição de Carreira:** Unindo 6+ anos de experiência em **Design Gráfico** e **UX/UI** com a Engenharia de Software.
 - **Foco técnico:** Engenharia de Requisitos, Modelagem UML, Metodologias Ágeis (Scrum/Kanban) e Lógica de Programação.
 - **Inglês:** Nível **C2 Proficient (Reading & Listening)** certificado pela EF SET. Capacidade plena para interpretar documentações complexas e acompanhar conteúdos técnicos avançados.
 
