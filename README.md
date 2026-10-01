@@ -1,25 +1,20 @@
-# Olá, eu sou a Eduarda! / Hi, I'm Eduarda!
+# Eduarda Andrade
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre) na UNINTER com média acadêmica superior a 80/100.  
-*ADS Student (3rd Semester) with a GPA above 80/100.*
+Profissional em transição para as áreas de UX/UI e Dados | Estudante de Análise e Desenvolvimento de Sistemas (UNINTER)
 
----
+### Sobre
 
-### Sobre mim / About me
-- 🇧🇷 Localizada em **Recife, PE**.
-- **Transição de Carreira:** Unindo 6+ anos de experiência em **Design Gráfico** e **UX/UI** com a Engenharia de Software.
-- **Foco técnico:** Engenharia de Requisitos, Modelagem UML, Metodologias Ágeis (Scrum/Kanban) e Lógica de Programação.
-- **Inglês:** Nível **C2 Proficient (Reading & Listening)** certificado pela EF SET. Capacidade plena para interpretar documentações complexas e acompanhar conteúdos técnicos avançados.
+Localizada em Recife, PE, minha base combina a vivência prática em Design Gráfico com o raciocínio analítico da graduação em Análise e Desenvolvimento de Sistemas (ADS). 
 
----
+Atualmente, construo cases práticos voltados para a resolução de problemas de interface e lógica de negócios. Tenho foco na construção de produtos digitais acessíveis, aplicando desde a Engenharia de Requisitos e Modelagem UML até o desenvolvimento de interfaces e estruturação de dados.
 
-### Habilidades Técnicas / Technical Skills
-- **Linguagens:** Python, Java, SQL (Básico/Intermediário).
-- **Design/UX:** Figma, Adobe Suite (Avançado).
-- **Documentação:** UML, Diagramas de Caso de Uso e Classe (Básico/Intermediário).
-- **Ferramentas:** Git, GitHub, Excel (Intermediário).
+### Frentes de Atuação e Tecnologias
 
----
+- **UX e UI Design:** Figma, Arquitetura da Informação, Usabilidade, Prototipagem e Documentação Técnica (Handoff).
+- **Desenvolvimento Front-end e Lógica:** HTML, CSS, JavaScript, Python, Git e GitHub.
+- **Análise de Dados e Sistemas:** SQL, Engenharia de Requisitos, Modelagem de Dados, Metodologias Ágeis (Scrum/Kanban) e Resolução de Problemas.
+- **Idiomas:** Inglês Proficiente (Certificação C2 EF SET - Foco em compreensão integral de documentações técnicas complexas).
 
-### Vamos nos conectar! / Let's connect!
+### Contato
+
 - [LinkedIn](https://www.linkedin.com/in/eduardaandradedev/)
